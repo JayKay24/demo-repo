@@ -14,7 +14,7 @@ grapes
 lemons
 limes
 lettuce
-rice
+brown rice
 soup
 ice cream
 sugar
